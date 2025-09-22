@@ -1,0 +1,59 @@
+{
+  "id": "comp_001",
+  "marca": "TechPro",
+  "modelo": "Gaming X7",
+  "precio": 1299.99,
+  "stock": 45,
+  "activo": true,
+  "especificaciones": {
+    "cpu": {
+      "marca": "AMD",
+      "modelo": "Ryzen 7 7700X",
+      "nucleos": 8,
+      "frecuencia": "4.5 GHz"
+    },
+    "ram": {
+      "capacidad": "32GB",
+      "tipo": "DDR5",
+      "velocidad": "5600 MHz"
+    },
+    "gpu": {
+      "marca": "NVIDIA",
+      "modelo": "RTX 4070",
+      "memoria": "12GB"
+    },
+    "almacenamiento": [
+      {
+        "tipo": "SSD",
+        "capacidad": "1TB",
+        "interfaz": "NVMe"
+      },
+      {
+        "tipo": "HDD",
+        "capacidad": "2TB",
+        "interfaz": "SATA"
+      }
+    ],
+    "placaMadre": {
+      "marca": "ASUS",
+      "modelo": "B650-E",
+      "socket": "AM5"
+    },
+    "fuente": {
+      "potencia": "750W",
+      "certificacion": "80+ Gold"
+    }
+  },
+  "conectividad": {
+    "wifi": true,
+    "bluetooth": true,
+    "ethernet": true,
+    "puertosUSB": 8
+  },
+  "sistema": {
+    "so": "Windows 11 Pro",
+    "licenciaIncluida": true
+  },
+  "fechaCreacion": "2025-09-22",
+  "ultimaActualizacion": "2025-09-22T10:30:00Z"
+}
