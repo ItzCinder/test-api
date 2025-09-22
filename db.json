@@ -3,7 +3,7 @@
   "marca": "TechPro",
   "modelo": "Gaming X7",
   "precio": 1299.99,
-  "stock": 45,
+  "stock": 40,
   "activo": true,
   "especificaciones": {
     "cpu": {
